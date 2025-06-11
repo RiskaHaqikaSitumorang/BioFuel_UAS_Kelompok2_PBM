@@ -75,13 +75,13 @@ Minyak jelantah sering dibuang sembarangan, mencemari lingkungan, dan membahayak
         <img src="https://github.com/user-attachments/assets/66f1cfc7-3b8c-44ae-b327-e04218a1125a" width="150"><br>
         <strong>Halaman Register</strong>
       </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/5e5308d9-89c0-4013-b715-c959c68c3ff7" width="150"><br>
         <strong>Dashboard</strong>
       </td>
-    </tr>
-    <!-- Row 2 -->
-    <tr>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f12fe936-0165-4ac6-b41f-63a5ea294534" width="150"><br>
         <strong>Info</strong>
@@ -94,6 +94,9 @@ Minyak jelantah sering dibuang sembarangan, mencemari lingkungan, dan membahayak
         <img src="https://github.com/user-attachments/assets/69e36c69-0df6-4ee3-a6d0-36ee18743497" width="150"><br>
         <strong>Drop Point</strong>
       </td>
+    </tr>
+    <!-- Row 3 -->
+    <tr>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/ab0282c7-515d-40c6-a057-dae802cbbfd9" width="150"><br>
         <strong>PickUp</strong>
@@ -102,9 +105,19 @@ Minyak jelantah sering dibuang sembarangan, mencemari lingkungan, dan membahayak
         <img src="https://github.com/user-attachments/assets/508c2788-a7d9-4f37-a360-fbda4775845a" width="150"><br>
         <strong>Tukar Poin</strong>
       </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/5fbce04f-08c4-4f78-bb94-d9d1d53ce256" width="150"><br>
+        <strong>Profile</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/73f77937-25bc-4910-b98d-f1691b14cf7f" width="150"><br>
+        <strong>History</strong>
+      </td>
     </tr>
   </table>
 </div>
+
+
 
 
 
