@@ -54,16 +54,58 @@ Minyak jelantah sering dibuang sembarangan, mencemari lingkungan, dan membahayak
 ---
 
 ## **Screenshots**  
-Untuk membuat layout screenshot dalam 3 kolom ke samping dan 3 baris ke bawah (total 9 screenshot) dengan format Markdown biasa (tanpa HTML), Anda bisa menggunakan tabel dengan menggabungkan kolom. Berikut contohnya:
 
-## **Screenshots**
+<div align="center">
+  <table>
+    <!-- Row 1 -->
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/bba075f8-80de-478b-8bb7-6dca59a623da" width="150"><br>
+        <strong>Halaman Splash</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/289569a6-9200-4b4d-a4cb-7fc12aa18561" width="150"><br>
+        <strong>Halaman Welcome</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/ad52e471-b770-45fe-a21f-65eb2eb1c062" width="150"><br>
+        <strong>Halaman Login</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/66f1cfc7-3b8c-44ae-b327-e04218a1125a" width="150"><br>
+        <strong>Halaman Register</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/5e5308d9-89c0-4013-b715-c959c68c3ff7" width="150"><br>
+        <strong>Dashboard</strong>
+      </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f12fe936-0165-4ac6-b41f-63a5ea294534" width="150"><br>
+        <strong>Info</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/341f3955-b5f5-4e5d-a7a0-ae9a549edd76" width="150"><br>
+        <strong>Setor Minyak</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/69e36c69-0df6-4ee3-a6d0-36ee18743497" width="150"><br>
+        <strong>Drop Point</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/ab0282c7-515d-40c6-a057-dae802cbbfd9" width="150"><br>
+        <strong>PickUp</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/508c2788-a7d9-4f37-a360-fbda4775845a" width="150"><br>
+        <strong>Tukar Poin</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-| | | |
-|-|-|-|
-| ![image](https://github.com/user-attachments/assets/bba075f8-80de-478b-8bb7-6dca59a623da) <br> **Halaman Splash** | ![image](https://github.com/user-attachments/assets/289569a6-9200-4b4d-a4cb-7fc12aa18561) <br> **Halaman Welcome** | ![image](https://github.com/user-attachments/assets/ad52e471-b770-45fe-a21f-65eb2eb1c062) <br> **Halaman Login**  |
-| ![image](https://github.com/user-attachments/assets/ea461892-94ea-44e4-99ff-0fc71b386c35) <br> **Halaman register** |![image](https://github.com/user-attachments/assets/5e5308d9-89c0-4013-b715-c959c68c3ff7) <br> **Dashboard** | ![image](https://github.com/user-attachments/assets/e1960f8c-24c8-49a5-932e-75c156f6e50b) <br> **Info** |
-| ![image](https://github.com/user-attachments/assets/341f3955-b5f5-4e5d-a7a0-ae9a549edd76) <br> **Setor Minyak** | ![image](https://github.com/user-attachments/assets/69e36c69-0df6-4ee3-a6d0-36ee18743497) <br> **Drop Point** | ![image](https://github.com/user-attachments/assets/4b0243ba-3635-4b88-80f3-91770c2498e0)
- <br> **PickUp** <br> Info daur ulang minyak |
 
 
 ---
@@ -71,7 +113,7 @@ Untuk membuat layout screenshot dalam 3 kolom ke samping dan 3 baris ke bawah (t
 ## **Pengujian**  
 | No | Fitur | Status | Keterangan |  
 |----|-------|--------|------------|  
-| 1 | Pendaftaran & Login | ✅ Berhasil | OTP terkirim via email |  
+| 1 | Pendaftaran & Login | ✅ Berhasil | Verifikasi berjalan  |  
 | 2 | Input Minyak Jelantah | ✅ Berhasil | Estimasi insentif terhitung otomatis |  
 | 3 | Penjemputan | ✅ Berhasil | Notifikasi jadwal muncul di aplikasi |  
 | 4 | Drop-Off | ✅ Berhasil | Peta dan rute tampil dengan benar |  
