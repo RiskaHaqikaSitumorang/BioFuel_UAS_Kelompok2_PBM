@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Header -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/bg_top_login"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:gravity="center_vertical"
+        android:elevation="4dp">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_back"
+            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Titik Penyerahan"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginEnd="28dp" />
+
+    </LinearLayout>
+
+    <!-- Map Background -->
+
+    <!-- Location Markers -->
+
+
+    <!-- Bottom Info Card -->
+
+    <ImageView
+        android:id="@+id/iv_map_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="56dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_nmap" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:elevation="8dp"
+        android:layout_margin="16dp"
+        android:backgroundTint="@android:color/white">
+
+        <!-- Distance and Time -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="12dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.4 km"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:background="@drawable/distance_badge_background"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="6dp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="0800-2000"
+                android:textSize="14sp"
+                android:textColor="#666666"
+                android:gravity="end" />
+
+        </LinearLayout>
+
+        <!-- Location Name -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Minyak kemiri malem diwa"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#333333"
+            android:layout_marginBottom="4dp" />
+
+        <!-- Address -->
+        <TextView
+            android:layout_width="305dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Jl. Raya Samiantan No.2, Samiantan Km. 14 Banda Aceh, Samiantan, Mempawah"
+            android:textColor="#666666"
+            android:textSize="12sp" />
+
+        <!-- Additional Info -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="SAMIANTAN-ARAH WAJOK HULU, ACEH TIMAH"
+            android:textColor="#999999"
+            android:textSize="11sp" />
+
+        <ImageView
+            android:layout_width="39dp"
+            android:layout_height="36dp"
+            android:layout_gravity="bottom|end"
+            android:elevation="10dp"
+            android:src="@drawable/direction"
+            android:translationZ="8dp" />
+
+    </LinearLayout>
+
+    <!-- Navigation FAB -->
+
+
+</FrameLayout>

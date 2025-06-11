@@ -1,0 +1,80 @@
+<resources>
+    <!-- Titik Penyerahan Screen -->
+    <string name="titik_penyerahan">Titik Penyerahan</string>
+    <string name="view_all_locations">Lihat Semua Lokasi Terdekat</string>
+    <string name="distance_from_current">Jarak dari lokasi anda sekarang</string>
+    <string name="map">Peta</string>
+    <string name="app_name">Peta</string>
+    <string name="welcome_message">Selamat Datang</string>
+    <string name="biofuel">Biofuel</string>
+    <string name="total_oil">Jumlah Total Minyak</string>
+    <string name="exchange_points">Tukar Poin</string>
+    <string name="total_points_in">Total Poin Masuk</string>
+    <string name="total_points_out">Total Poin Keluar</string>
+    <string name="recycle_icon">Recycle Icon</string>
+    <string name="collection_icon">Collection Icon</string>
+    <string name="filtering_icon">Filtering Icon</string>
+    <string name="purification_icon">Purification Icon</string>
+    <string name="transesterification_icon">Transesterification Icon</string>
+    <string name="biodiesel_icon">Biodiesel Icon</string>
+    <string name="home">Home</string>
+    <string name="info">Info</string>
+    <string name="profile">Profile</string>
+    <!-- Profil -->
+    <string name="nama_pengguna">Razwa Haisa</string>
+    <string name="nomor_pengguna">0899-3415-875</string>
+
+    <!-- Card kota dan poin -->
+    <string name="kota">Kota</string>
+    <string name="lihat_peringkat">Lihat Peringkat</string>
+    <string name="poin">16500</string>
+    <string name="tukar_poin">Tukar Poin</string>
+
+    <!-- Pengaturan -->
+    <string name="pengaturan_aplikasi">Pengaturan Aplikasi</string>
+    <string name="pengaturan_profil">Pengaturan Profil</string>
+    <string name="pengaturan_keamanan">Pengaturan Keamanan</string>
+
+    <!-- Informasi Umum -->
+    <string name="informasi_umum">Informasi Umum</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="syarat_ketentuan">Syarat &amp; Ketentuan</string>
+    <string name="kebijakan_privas">Kebijakan Privasi</string>
+
+    <!-- Lain-lain -->
+    <string name="versi_aplikasi">Versi Aplikasi 1.0.0</string>
+    <string name="keluar">Keluar</string>
+
+    <string name="setor_minyak">Setor Minyak</string>
+    <string name="tambah_jumlah_minyak">Tambah Jumlah Minyak (L)</string>
+    <string name="permintaan_berhasil">PERMINTAAN BERHASIL DIKIRIM</string>
+    <string name="oke">OKE</string>
+    <string name="kirim">Kirim</string>
+    <string name="lima_liter">5 Liter</string>
+    <string name="sepuluh_liter">10 Liter</string>
+    <string name="lima_belas_liter">15 Liter</string>
+    <string name="dua_puluh_liter">20 Liter</string>
+    <string name="lainnya">Lainnya</string>
+
+    <string name="back">Back</string>
+    <string name="pickup_title">Penjemputan</string>
+    <string name="pickup_address_title">Alamat Penjemputan</string>
+    <string name="add_address">Tambah Alamat</string>
+    <string name="no_address_yet">Anda belum menambahkan alamat</string>
+    <string name="pickup_schedule_title">Jadwal Penjemputan</string>
+    <string name="select_schedule">Pilih Jadwal</string>
+    <string name="calendar">Calendar</string>
+    <string name="notes">Keterangan</string>
+    <string name="confirm">Konfirmasi</string>
+
+
+    <string name="pickup_detail_title">Detail Pickup</string>
+    <string name="icon_box">Icon box</string>
+    <string name="icon_oil">Icon minyak</string>
+    <string name="pickup_schedule_title">Jadwal Penjemputan</string>
+    <string name="cancel">Batalkan</string>
+    <string name="finish">Selesai</string>
+
+
+
+</resources>
